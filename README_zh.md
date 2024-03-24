@@ -4,6 +4,7 @@
 
 
 初步移植选型的芯片为BL702：https://www.bouffalolab.com/product/?type=detail&id=4
+开发板为sipeed-M0sense：https://wiki.sipeed.com/hardware/zh/maixzero/sense/start.html
 
 # 项目排期
 1. BootLoader移植（引导到Firmware_hello，带验签流程）
